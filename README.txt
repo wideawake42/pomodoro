@@ -1,0 +1,1 @@
+This is a simple pomodoro timer built for freeCodeCamp. I put it up on Git so I could learn to use Git!
